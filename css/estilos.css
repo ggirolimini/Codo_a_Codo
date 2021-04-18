@@ -1,0 +1,40 @@
+.logo{
+    background-color: rgb(153, 182, 134);
+}
+
+tr,th,td {
+    border: 1px solid black;
+}
+.menu {
+    background-color: rgb(17, 126, 153);
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: floralwhite;
+}
+
+h1{
+    font-size: xxx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+}
+
+.iconos{
+    border: none;
+    text-align: center;
+}
+
+.ftabla{
+    color: cornsilk;
+    border: none;
+    background-color: rgb(17, 126, 153);
+    list-style: none;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(201, 191, 191);
+}
